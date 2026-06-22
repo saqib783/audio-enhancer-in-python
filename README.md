@@ -10,8 +10,8 @@ I bridge the gap between development and operations by building automated, scala
 
 To keep up with my latest projects, tutorials, and behind-the-scenes tech content, check out my channels:
 
-[![YouTube](https://shields.io)](https://www.youtube.com/@codeghar001)
-[![Instagram](https://shields.io)](https://www.instagram.com/saqibrashid.devops/)
+[![YouTube]](https://www.youtube.com/@codeghar001)
+[![Instagram]](https://www.instagram.com/saqibrashid.devops/)
 
 ---
 
@@ -41,11 +41,3 @@ A Python automation pipeline that ingests raw audio files, converts samples into
 - **DevOps & Infrastructure:** Git, GitHub Actions, CI/CD Pipelines, Linux Automation
 
 ---
-
-### 📊 GitHub Analytics
-
-<p align="left">
-  <img src="https://vercel.app" alt="Saqib's GitHub Stats" width="48%"/>
-  <img src="https://vercel.app" alt="Top Languages" width="48%"/>
-</p>
-
