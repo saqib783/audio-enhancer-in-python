@@ -28,7 +28,7 @@ A Python automation pipeline that ingests raw audio files, converts samples into
 *Caption: Live execution of the non-stationary background noise removal pipeline.*
 
 #### 🎥 Code Ghar YouTube Channel
-![Code Ghar Channel Banner](https://github.com)
+![Code Ghar Channel Banner](https://github.com/saqib783/audio-enhancer-in-python/blob/074160d7e82292c37d327e630fb5a758df6ef58c/Screenshot%20(2029).png)
 *Caption: Head over to my YouTube Channel for detailed breakdowns of beginner-friendly programming and DevOps topics.*
 
 
