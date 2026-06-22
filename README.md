@@ -30,7 +30,7 @@ A Python automation pipeline that ingests raw audio files, converts samples into
 
 #### 🎥 Code Ghar YouTube Channel
 <!-- Replace the placeholder URL with your actual channel screenshot -->
-![Code Ghar Channel Banner](https://placeholder.com)
+![Code Ghar Channel Banner]([https://placeholder.com](https://github.com/saqib783/audio-enhancer-in-python/blob/ab1bde74a4ce6b78fe576c1cae1495c9f1423ed8/Screenshot%20(2029).png))
 *Caption: Head over to my YouTube Channel for detailed breakdowns of beginner-friendly programming and DevOps topics.*
 
 ---
