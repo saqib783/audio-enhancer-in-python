@@ -24,14 +24,13 @@ A Python automation pipeline that ingests raw audio files, converts samples into
 ### 📸 Project Screenshots & Previews
 
 #### 🖥️ Python Automation & Audio Processing Pipeline
-<!-- Replace the placeholder URL with your actual image path or repository link once uploaded -->
-![Audio Noise Reduction Script Workflow]([https://placeholder.com](https://github.com/saqib783/audio-enhancer-in-python/blob/3c4e6af69c4c7149628a05e4a2c0f53e3c62fdc1/Screenshot%20(2030).png))
+![Audio Noise Reduction Script Workflow](https://github.com)
 *Caption: Live execution of the non-stationary background noise removal pipeline.*
 
 #### 🎥 Code Ghar YouTube Channel
-<!-- Replace the placeholder URL with your actual channel screenshot -->
-![Code Ghar Channel Banner]([https://placeholder.com](https://github.com/saqib783/audio-enhancer-in-python/blob/ab1bde74a4ce6b78fe576c1cae1495c9f1423ed8/Screenshot%20(2029).png))
+![Code Ghar Channel Banner](https://github.com)
 *Caption: Head over to my YouTube Channel for detailed breakdowns of beginner-friendly programming and DevOps topics.*
+
 
 ---
 
